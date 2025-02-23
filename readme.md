@@ -1,5 +1,5 @@
 ```bash
-git clone <github-url>
+git clone git@github.com:asadul221/Car-Booking.git
 ```
 
 
