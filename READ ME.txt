@@ -1,0 +1,14 @@
+get method:year-month-date
+
+
+
+post method:
+{
+  "bookingDate": "2025-03-10",
+  "startTime": "10:00:00",
+  "endTime": "12:00:00",
+  "repeatOption": 1,
+  "endRepeatDate": "2025-03-20",
+  "requestedOn": "2025-02-23T09:29:14.290Z",
+  "carId": "E6363DD2-A141-4D46-AB48-19B541CABCDF"
+}
